@@ -14,7 +14,8 @@ public class BooksController {
 		
 		return Arrays.asList(
 				new Book(1L,"Head First Java","Kethy Seria"),
-				new Book(2L,"Head First Servlet&Jsp","Kethy Seria"));
+				new Book(2L,"Head First Servlet&Jsp","Kethy Seria"),
+				new Book(2L,"Head First Javascript","Kethy Seria"));
 	}
 	
 }
